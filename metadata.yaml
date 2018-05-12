@@ -1,0 +1,47 @@
+_repo: Space-Viking_20728
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, Jack
+    - Schoenherr, John (John Carl)
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Piper, H. Beam
+    alias: Piper, Henry Beam
+    birthdate: 1904
+    deathdate: 1964
+    gutenberg_agent_id: '8301'
+    url: http://www.gutenberg.org/2009/agents/8301
+    wikipedia: http://en.wikipedia.org/wiki/H._Beam_Piper
+description: When his wife is murdered on his wedding day, Lucas Trask launches himself
+  on a quest for revenge. Using his personal fortune, he buys a spaceship and becomes
+  a Space Viking, raiding worlds while hunting for his wife's killer. But raiding
+  is not his destiny, and he gradually becomes a trader, starting to build a galactic
+  empire. Before he can achieve his new goals, however, he must still deal with his
+  wife's killer.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Space warfare -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Revenge -- Fiction'
+title: Space Viking
+url: http://www.gutenberg.org/ebooks/20728
